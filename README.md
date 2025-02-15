@@ -35,6 +35,7 @@
 </div>
 
 ###
+<hr>
 
 <h3 align="center">About me:</h3>
 
