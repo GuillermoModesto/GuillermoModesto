@@ -1,22 +1,3 @@
-<div align="center">
-  <h1>Hi there, I'm Guillermo 👋</h1>
-  <img src="https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=6c09b9522yjxb7ect2yfff81tod20q2g286voqtz20861kan&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</div>
-
-<!--
-**GuillermoModesto/GuillermoModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center">Hi there, I'm Guille👋</h2>
 
 ###
@@ -59,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Guillermo Modesto Antiñolo Rueda, from Málaga (Andalucía, Spain). I'm a software developer, currently in an internship.<br><br>✨ Been coding on my own for a few years now, mostly for fun, recently formalized my knowledge by getting into a technical college.<br>📚 Currently working on creating my own virtual machine using the 'build-your-own-x' repo, quite fun.<br>🎯 My first goal as of right now is to get a job in software development.<br>🎲 Some random information about me, I play the guitar quite well.</p>
+<p align="left">I'm Guillermo Modesto Antiñolo Rueda, from Málaga (Andalucía, Spain). I'm a software developer, currently in an internship.<br><br>- ✨ Been coding on my own for a few years now, mostly for fun, recently formalized my knowledge by getting into a technical college.<br>- 📚 Currently working on developing a digital travel website (as in, like Booking).<br>- 🌱 Currently learning how to create a virtual machine using the 'build-your-own-x' repo, quite fun.<br>- 🎯 My first goal as of right now is to get a job in software development.<br>- 🎲 Some random information about me, I play the guitar quite well, and enjoy doing exercise.</p>
 
 ###
 
