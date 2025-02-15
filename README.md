@@ -7,6 +7,7 @@
 <img align="right" height="400" src="https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=6c09b9522yjxb7ect2yfff81tod20q2g286voqtz20861kan&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
+<hr>
 
 <h3 align="center">Technologies I have used so far:</h3>
 
