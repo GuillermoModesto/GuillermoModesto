@@ -26,14 +26,14 @@
 ### 👨‍💻 About Me
 
 I'm **Guillermo Modesto Antiñolo Rueda**, from Málaga (Andalucía, Spain).  
-I'm a software developer, currently in an internship.
+I'm a software developer.
 
 - ✨ Been coding on my own for a few years, mostly for fun  
 - 📚 Formalized my knowledge through technical college  
 - 🌍 Currently working on a digital travel website project (like Booking)  
-- 🧠 Learning to build a virtual machine using the `build-your-own-x` repo — it's fun!  
+- 🧠 Learning to build low level stuff like graphic engines and virtual machines go hard.
 - 🎯 My next goal is to land a job in **software development**, ideally backend or low-level systems  
-- 🎸 Outside tech: I play guitar and enjoy exercise
+- 🎸 Outside tech: I play guitar and enjoy exercise and videogames.
 
 ---
 
